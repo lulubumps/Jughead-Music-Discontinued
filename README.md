@@ -1,11 +1,16 @@
-<h1>JUGHEAD MUSIC: The Music Proyect</h1>
-<p>Este proyecto fue desarrollado para el ramo: "Programación de Aplicaciones Web", en Inacap Chillán.</p>
-<p>Se recomienda estudiar el codigo antes de usarlo.</p>
-<p>Si quieres usarlo, recuerda colocar los creditos del respectivo dueño. Respetemos a los creadores.</p>
+<h1>Jughead Music</h1>
 
-<hr>
+<p>Jughead Music is a project created for educational purposes (managing Databases, HTML and PHP) internally. It was worked with Sebastian Riquelme and Christian Seguel.</p>
 
-<h2>¿Que es Jughead?</h2>
-<p>Jughead es un proyecto de música parecido a Spotify, conformado por 3 integrantes en la construcción (llámese Base de Datos, Diseño y Programación).</p>
+<br >
 
-<h2>¡Muchas Gracias!</h2>
+<h2>WARNING!</h2>
+<p>This website was made for educational purposes. The material used is copyrighted and was purchased in full (songs purchased and/or authorized by the bands or soloists of the groups).
+This code may not be reused for educational, advertising or experimental purposes.</p>
+
+<br >
+
+<p>NEVER STOP PROGRAMMING.</p>
+<p>Luciano Sánchez</p>
+
+<img src="https://loverandom.cl/wp-content/uploads/2018/12/logo-lrcl-dark.png">

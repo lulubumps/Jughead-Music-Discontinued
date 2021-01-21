@@ -1,16 +1,25 @@
-<h1>Jughead Music</h1>
+# Jughead Music (Descontinuado)
 
-<p>Jughead Music is a project created for educational purposes (managing Databases, HTML and PHP) internally. It was worked with Sebastian Riquelme and Christian Seguel.</p>
+## Comenzando 🚀
+Este proyecto fue desarrollado con fines educacionales. "Jughead Music" es una mini versión de Spotify realizado con PHP, JavaScript, HTML y CSS para el diseño y correcto funcionamiento.
 
-<br >
+### Pre-requisitos 📋
+Necesitas tener un programa para crear bases de datos de forma local (si ocupas Windows, puedes usar Xampp).
+- Deberás crear bases de datos dentro de PHPMyAdmin.
+- Deberás revisar [Conexión.php](https://github.com/lulubumps/Jughead-Music-Discontinued-/blob/master/conexion.php) para revisar como funciona correctamente.
 
-<h2>WARNING!</h2>
-<p>This website was made for educational purposes. The material used is copyrighted and was purchased in full (songs purchased and/or authorized by the bands or soloists of the groups).
-This code may not be reused for educational, advertising or experimental purposes.</p>
+## Versionado 📌
+Se utilizó la versión PHP 7.4 para este proyecto.
 
-<br >
+## Construido con 🛠️
+* [Xampp](https://www.apachefriends.org/es/index.html) - Entorno de desarrollo PHP
+* [Bootstrap 4](https://getbootstrap.com/docs/4.1/getting-started/introduction/) - Framework para construcción web y móvil
+* [Visual Studio Code](https://code.visualstudio.com/) - Usado para escribir los códigos
 
-<p>NEVER STOP PROGRAMMING.</p>
-<p>Luciano Sánchez</p>
+## Autores ✒️
+* **Luciano Sánchez**
+* **Sebastián Rivera**
+* **Christian Seguel**
 
-<img src="https://loverandom.cl/wp-content/uploads/2018/12/logo-lrcl-dark.png">
+---
+⌨️ con ❤️ por [Lulubumps](https://github.com/Lulubumps) 😊

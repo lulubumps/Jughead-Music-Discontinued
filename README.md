@@ -1,4 +1,4 @@
-# Jughead Music (Descontinuado)
+# Jughead Music (Discontinued)
 
 <img src="/images/6016221.jpg" alt="Website Screenshot"/>
 

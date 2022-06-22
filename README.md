@@ -1,25 +1,27 @@
 # Jughead Music (Descontinuado)
 
-## Comenzando 🚀
-Este proyecto fue desarrollado con fines educacionales. "Jughead Music" es una mini versión de Spotify realizado con PHP, JavaScript, HTML y CSS para el diseño y correcto funcionamiento.
+<img src="/images/6016221.jpg" alt="Website Screenshot"/>
 
-### Pre-requisitos 📋
-Necesitas tener un programa para crear bases de datos de forma local (si ocupas Windows, puedes usar Xampp).
-- Deberás crear bases de datos dentro de PHPMyAdmin.
-- Deberás revisar [Conexión.php](https://github.com/lulubumps/Jughead-Music-Discontinued-/blob/master/conexion.php) para revisar como funciona correctamente.
+## Starting 🚀
+This project was developed for educational purposes. "Jughead Music" is a mini version of Spotify made with PHP, JavaScript, HTML and CSS for proper design and function. Oh sure, and it's very outdated and there's a chance it won't work properly (I recommend that you use it only as a very beta version and not as a final project).
 
-## Versionado 📌
-Se utilizó la versión PHP 7.4 para este proyecto.
+### Requirements 📋
+You need to have a program to create databases locally (if you use Windows, you can use Xampp).
+- You must create databases within PHPMyAdmin.
+- You should review [Conexión.php](https://github.com/lulubumps/Jughead-Music-Discontinued-/blob/master/conexion.php) to check how it works correctly.
 
-## Construido con 🛠️
-* [Xampp](https://www.apachefriends.org/es/index.html) - Entorno de desarrollo PHP
-* [Bootstrap 4](https://getbootstrap.com/docs/4.1/getting-started/introduction/) - Framework para construcción web y móvil
-* [Visual Studio Code](https://code.visualstudio.com/) - Usado para escribir los códigos
+## Version 📌
+PHP version 7.4 was used for this project.
 
-## Autores ✒️
+## Built with 🛠️
+* [Xampp](https://www.apachefriends.org/es/index.html) - PHP development environment
+* [Bootstrap 4](https://getbootstrap.com/docs/4.1/getting-started/introduction/) - Framework for web and mobile construction
+* [Visual Studio Code](https://code.visualstudio.com/) - Used to write the codes
+
+## Authors ✒️
 * **Luciano Sánchez**
 * **Sebastián Rivera**
 * **Christian Seguel**
 
 ---
-⌨️ con ❤️ por [Lulubumps](https://github.com/Lulubumps) 😊
+⌨️ with ❤️ by [Lulubumps](https://github.com/Lulubumps) 😊

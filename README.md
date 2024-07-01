@@ -10,6 +10,7 @@ About A free Spotify attempt developed for programming classes (the project hasn
 This project was developed for educational purposes. "Jughead Music" is a mini version of Spotify made with PHP, JavaScript, HTML and CSS for proper design and function. Oh sure, and it's very outdated and there's a chance it won't work properly (I recommend that you use it only as a very beta version and not as a final project).
 # Screenshots
  <img src="https://raw.githubusercontent.com/lulubumps/Jughead-Music-Discontinued/master/images/6016221.jpg">
+ 
 # Tech Used
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
       
